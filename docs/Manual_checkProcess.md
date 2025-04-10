@@ -6,8 +6,9 @@
   
 With this module you can check if a specific bot is currently running on the system.  
 
-*Read this in other languages: [English](README.md), [Português](README.pr.md), [Español](README.es.md)*
-
+*Read this in other languages: [English](Manual_checkProcess.md), [Português](Manual_checkProcess.pr.md), [Español](Manual_checkProcess.es.md)*
+  
+![banner](imgs/CheckProcess.jpg)
 ## How to install this module
   
 To install the module in Rocketbot Studio, it can be done in two ways:
@@ -15,26 +16,12 @@ To install the module in Rocketbot Studio, it can be done in two ways:
 2. Automatic: When entering Rocketbot Studio on the right margin you will find the **Addons** section, select **Install Mods**, search for the desired module and press install.  
 
 
-## Overview
+## Description of the commands
 
-
-1. Check Rocketbot process  
-Checks if a Rocketbot process is running  
-
-
-
-
-----
-### OS
-
-- windows
-- mac
-- linux
-- docker
-
-### Dependencies
-
-### License
+### Check Rocketbot process
   
-![MIT](https://camo.githubusercontent.com/107590fac8cbd65071396bb4d04040f76cde5bde/687474703a2f2f696d672e736869656c64732e696f2f3a6c6963656e73652d6d69742d626c75652e7376673f7374796c653d666c61742d737175617265)  
-[MIT](http://opensource.org/licenses/mit-license.ph)
+Checks if a Rocketbot process is running
+|Parameters|Description|example|
+| --- | --- | --- |
+|Robot name |Name of the robot you want to search.|name|
+|Assign result to variable |Variable where the result will be stored|var|
