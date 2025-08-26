@@ -1,13 +1,13 @@
 {
     "author":"Corina Suarez",
-    "description": "Módulo para verificar si un bot se está ejecutando en el sistema. | Module to check if a bot is running on the system.",
+    "description": "Module to check if a bot is running on the system.",
     "description_lang": {
         "es": "Con este módulo puedes comprobar si un bot específico está ejecutándose actualmente en el sistema.",
         "en": "With this module you can check if a specific bot is currently running on the system.",
         "pr": "Com este módulo você pode verificar se um bot específico está em execução no sistema."
     },
     "disclaimer":"THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.",
-    "version":"1.0.0",
+    "version":"1.0.1",
     "license": "MIT",
     "homepage":"http://rocketbot.co/",
     "linux": true,
